@@ -1,0 +1,6 @@
+,0,Baseline DTR,DTR_llm_encode
+0,cv_mae_test,-184.7015875,-182.06978174603168
+1,cv_std_test,41.37545219186558,34.12410716997984
+2,cv_mae_train,-110.86052757936518,-112.99138075396823
+3,cv_std_train,11.89008444647738,8.803486779992982
+4,best parameter,"{'regressor__max_depth': 10, 'regressor__min_samples_split': 10}","{'regressor__max_depth': None, 'regressor__min_samples_split': 10}"
