@@ -1,6 +1,6 @@
 ,0,Baseline DTR,DTR_llm_encode
-0,cv_mae_test,-184.7015875,-182.06978174603168
-1,cv_std_test,41.37545219186558,34.12410716997984
-2,cv_mae_train,-110.86052757936518,-112.99138075396823
-3,cv_std_train,11.89008444647738,8.803486779992982
+0,cv_mae_test,-235.31881112103173,-251.917052202381
+1,cv_std_test,31.358454596471855,44.65112299022344
+2,cv_mae_train,-154.39454130134254,-159.22719202628969
+3,cv_std_train,18.349529839178974,9.139033241874833
 4,best parameter,"{'regressor__criterion': 'squared_error', 'regressor__max_depth': 10, 'regressor__min_samples_split': 10}","{'regressor__criterion': 'squared_error', 'regressor__max_depth': None, 'regressor__min_samples_split': 10}"
