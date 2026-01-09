@@ -1,6 +1,7 @@
-,0,Baseline DTR,DTR_llm_encode
-0,cv_mae_test,-235.31881112103173,-251.917052202381
-1,cv_std_test,31.358454596471855,44.65112299022344
-2,cv_mae_train,-154.39454130134254,-159.22719202628969
-3,cv_std_train,18.349529839178974,9.139033241874833
-4,best parameter,"{'regressor__criterion': 'squared_error', 'regressor__max_depth': 10, 'regressor__min_samples_split': 10}","{'regressor__criterion': 'squared_error', 'regressor__max_depth': None, 'regressor__min_samples_split': 10}"
+,0,Baseline_DTR_MAE,DTR_llm_encode
+0,cv_mae_val,154.39454130134254,159.22719202628969
+1,cv_std_val,18.349529839178974,9.139033241874833
+2,cv_mae_train,89.55943425197714,89.9223993861607
+3,cv_std_train,4.139422311001063,3.4700093379095267
+4,holdout_mae,126.0654432631258,146.702373015873
+5,best para,"{'regressor__criterion': 'squared_error', 'regressor__max_depth': 10, 'regressor__min_samples_split': 10}","{'regressor__criterion': 'squared_error', 'regressor__max_depth': None, 'regressor__min_samples_split': 10}"
